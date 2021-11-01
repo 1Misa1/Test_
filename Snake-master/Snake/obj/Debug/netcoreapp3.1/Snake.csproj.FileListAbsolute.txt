@@ -1,0 +1,16 @@
+D:\ŠKOLA\Programko\IT3\Snake\Snake-master\Snake-master\Snake\bin\Debug\netcoreapp3.1\Snake.exe
+D:\ŠKOLA\Programko\IT3\Snake\Snake-master\Snake-master\Snake\bin\Debug\netcoreapp3.1\Snake.deps.json
+D:\ŠKOLA\Programko\IT3\Snake\Snake-master\Snake-master\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.json
+D:\ŠKOLA\Programko\IT3\Snake\Snake-master\Snake-master\Snake\bin\Debug\netcoreapp3.1\Snake.runtimeconfig.dev.json
+D:\ŠKOLA\Programko\IT3\Snake\Snake-master\Snake-master\Snake\bin\Debug\netcoreapp3.1\Snake.dll
+D:\ŠKOLA\Programko\IT3\Snake\Snake-master\Snake-master\Snake\bin\Debug\netcoreapp3.1\Snake.pdb
+D:\ŠKOLA\Programko\IT3\Snake\Snake-master\Snake-master\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.AssemblyReference.cache
+D:\ŠKOLA\Programko\IT3\Snake\Snake-master\Snake-master\Snake\obj\Debug\netcoreapp3.1\Snake.Form1.resources
+D:\ŠKOLA\Programko\IT3\Snake\Snake-master\Snake-master\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.GenerateResource.cache
+D:\ŠKOLA\Programko\IT3\Snake\Snake-master\Snake-master\Snake\obj\Debug\netcoreapp3.1\Snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\ŠKOLA\Programko\IT3\Snake\Snake-master\Snake-master\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfoInputs.cache
+D:\ŠKOLA\Programko\IT3\Snake\Snake-master\Snake-master\Snake\obj\Debug\netcoreapp3.1\Snake.AssemblyInfo.cs
+D:\ŠKOLA\Programko\IT3\Snake\Snake-master\Snake-master\Snake\obj\Debug\netcoreapp3.1\Snake.csproj.CoreCompileInputs.cache
+D:\ŠKOLA\Programko\IT3\Snake\Snake-master\Snake-master\Snake\obj\Debug\netcoreapp3.1\Snake.dll
+D:\ŠKOLA\Programko\IT3\Snake\Snake-master\Snake-master\Snake\obj\Debug\netcoreapp3.1\Snake.pdb
+D:\ŠKOLA\Programko\IT3\Snake\Snake-master\Snake-master\Snake\obj\Debug\netcoreapp3.1\Snake.genruntimeconfig.cache
